@@ -1,3 +1,6 @@
+# 13. Salīdzināt vienādu failu (ne README) hash no mapes module_1 un module_2. Vai git redz atšķirību starp šiem failiem?
+.png failu hash ir vienāds abās mapēs. Git neredz atškirību starp šiem failiem.
+
 # Commits last week:
 ```sh
 git log --all --since=1.weeks
